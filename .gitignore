@@ -1,3 +1,13 @@
+# =========================
+# User Setting
+# =========================
+
+# File
+*.pyc
+
+# Directory
+
+# =========================
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
